@@ -74,7 +74,7 @@ header{
     width: 100%;
     height: 100%;
 
-    background-image: url("images/pic1.png");
+    background-image: url("pic1.png");
     background-size: cover;
     background-position: center;
 
@@ -229,7 +229,7 @@ header{
     content:"";
     position:absolute;
     inset:0;
-    background:url("images/pic2.png");
+    background:url("pic2.png");
     background-size:cover;
     background-position:center;
     filter:brightness(0.35);
