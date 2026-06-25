@@ -115,9 +115,9 @@ const skillObserver = new IntersectionObserver((entries) => {
                 if (fill.classList.contains("html")) fill.style.width = "80%";
                 else if (fill.classList.contains("css")) fill.style.width = "82%";
                 else if (fill.classList.contains("js")) fill.style.width = "80%";
-                else if (fill.classList.contains("php")) fill.style.width = "63%";
-                else if (fill.classList.contains("python")) fill.style.width = "58%";
-                else if (fill.classList.contains("ai")) fill.style.width = "50%";
+                else if (fill.classList.contains("php")) fill.style.width = "33%";
+                else if (fill.classList.contains("python")) fill.style.width = "38%";
+                else if (fill.classList.contains("ai")) fill.style.width = "30%";
                 else fill.style.width = "0%";
             });
 
